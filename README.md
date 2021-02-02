@@ -40,6 +40,9 @@ use the foursquare API. But first, I created a folium map with each district
 labeled to get a visual sense of where each district was located. This way I
 could see how far away the poor and rich neighborhoods were in comparison
 to one another.
+
+![alt text](https://raw.githubusercontent.com/bigsunn97/Coursera_Capstone/main/images/Screen%20Shot%202021-02-02%20at%202.55.52%20PM.png)
+
 Then I began the foursquare API portion of my data research. I began by
 aggregating all of the nearby venues of the North End district, one of the
 most prosperous ones from Boston, to see what kind of venues were most
