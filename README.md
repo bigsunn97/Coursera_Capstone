@@ -2,7 +2,7 @@
 IBM Data Science Final Project
 Sunny Yan 
 
-## Boston: A Tale of Two Cities**
+## **Boston: A Tale of Two Cities**
 
 ### Intro:
 
