@@ -4,6 +4,8 @@ Sunny Yan
 
 ## **Boston: A Tale of Two Cities**
 
+![alt text](https://raw.githubusercontent.com/bigsunn97/Coursera_Capstone/main/images/download.png)
+
 ### Intro:
 
 My business problem is analyzing the rich and poor neighborhoods of
