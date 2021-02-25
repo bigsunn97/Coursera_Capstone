@@ -8,21 +8,20 @@ Sunny Yan
 
 ### Intro:
 
-My business problem is analyzing the rich and poor neighborhoods of
+My project is an analysis of the rich and poor neighborhoods of
 Boston. I wanted to compare and contrast the venues of the different neighborhoods. My
-hypothesis is that rich neighborhoods will have more restaurants, parks, and historical sites that will drive tourist traffic to the area, boosting
-the local economy.
+hypothesis is that rich neighborhoods will have more restaurants, parks, and historical sites that drive tourist traffic to the area, 
+pouring money into the local economy.
 
 In contrast, I suspect that poorer neighborhoods will have fewer of these venues and will have more laundromats,
-convenience stores, and fast food restaurants. Businesses that are for the
-citizens of the area and not tourists.
+convenience stores, and fast food restaurants. Businesses that do not drive revenue from non-citizens. 
 
 ### Data:
-Will be using data that I scraped from wikipedia that has information on all of
+For this project I used data scraped from wikipedia that has information on all of
 the zip codes that are in Boston as well as the income data for each of these
-distinct districts. Also using a dataset that contains the latitude and
+districts. Also using a dataset that contains the latitude and
 longitudinal values for each district.
-In conjuction, will use a foursquare api that allows me to look at all of the
+In conjuction, I also used the foursquare api to pull data on all the
 locations/venues that are located in each district.
 
 ### Methodology:
