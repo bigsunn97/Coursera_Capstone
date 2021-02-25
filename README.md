@@ -9,15 +9,13 @@ Sunny Yan
 ### Intro:
 
 My business problem is analyzing the rich and poor neighborhoods of
-Boston. Want to compare and contrast what kind of venues they have. Ie. do
-rich neighborhoods have more restaurants, tourist attractions, parks, etc. My
-hypothesis is that rich neighborhoods will have more of these things that will
-attract people to come to the area and bring money to the local economy.
-Whereas poorer neighborhoods will have things such as laundromats,
-convenience stores, fast food restaurants etc. Things that are more for the
-citizens of the area and not tourists who can come in and drive money. The
-audience for my study will be sociologists and also people who are interested
-in trying to improve the economy of their local community.
+Boston. I wanted to compare and contrast the venues of the different neighborhoods. My
+hypothesis is that rich neighborhoods will have more restaurants, parks, and historical sites that will drive tourist traffic to the area, boosting
+the local economy.
+
+In contrast, I suspect that poorer neighborhoods will have fewer of these venues and will have more laundromats,
+convenience stores, and fast food restaurants. Businesses that are for the
+citizens of the area and not tourists.
 
 ### Data:
 Will be using data that I scraped from wikipedia that has information on all of
