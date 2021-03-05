@@ -4,7 +4,7 @@ Sunny Yan
 
 ## **Boston: A Tale of Two Cities**
 
-![alt text](https://raw.githubusercontent.com/bigsunn97/Coursera_Capstone/main/images/download.png)
+![alt text](https://raw.githubusercontent.com/sunnyyan97/Coursera_Capstone/main/images/Screen%20Shot%202021-03-05%20at%201.34.33%20PM.png)
 
 ### Intro:
 
